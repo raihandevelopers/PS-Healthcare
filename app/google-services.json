@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531518997906",
+    "project_id": "pinksurfing-80253",
+    "storage_bucket": "pinksurfing-80253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531518997906:android:9c2d00923a5500c584ed4b",
+        "android_client_info": {
+          "package_name": "com.healthcare.pinksurfing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531518997906-lrsfsqisqoqicfm50soi2s1fom49asqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthcare.pinksurfing",
+            "certificate_hash": "eabe4305c03c9602f75dec8033a57896c60dc188"
+          }
+        },
+        {
+          "client_id": "531518997906-nth8t1q8ruvaqioks97q7ivpbj6g93oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqg_w-cKWyzuMla_A73kopSm_vuUELPAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531518997906-nth8t1q8ruvaqioks97q7ivpbj6g93oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
